@@ -211,13 +211,12 @@ Dashboard includes:
 
 ## Executive Overview
 
-![Dashboard Overview](PowerBI/Dashboard Screenshots/dashboard1.png)
+![Dashboard Overview](POWERBI%20ANALYSIS/Dashboard%20Screenshorts/Dashboard_Overview.png)
 
 ---
 
 ## Sales Performance Dashboard
-
-![Sales Dashboard](PowerBI/Dashboard Screenshots/dashboard2.png)
+![Sales Dashboard](POWERBI%20ANALYSIS/Dashboard%20Screenshorts/Dashboard_Performance.png)
 
 ---
 
@@ -279,7 +278,7 @@ Aspiring Data Analyst
 
 ### Connect with me
 
-- LinkedIn: *(Add your LinkedIn URL)*
+- LinkedIn: www.linkedin.com/in/adityajha49
 - GitHub: https://github.com/Code247nexus
 
 ---
